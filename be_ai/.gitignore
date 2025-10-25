@@ -1,0 +1,7 @@
+chroma_db/
+.env
+example*
+check_models.py
+test*
+temp/
+__pycache__/

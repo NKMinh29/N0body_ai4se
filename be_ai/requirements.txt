@@ -1,0 +1,14 @@
+pymongo
+python-dotenv
+fastapi
+uvicorn[standard]
+requests
+pydantic
+pytesseract
+opencv-python
+Pillow
+numpy
+PyMuPDF
+google-generativeai
+chromadb
+sentence-transformers
